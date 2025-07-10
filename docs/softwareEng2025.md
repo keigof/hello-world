@@ -1,3 +1,8 @@
+---
+layout: page
+title: "software Eng. lecture note
+permalink: /docs/softwareEng2025
+---
 ソフトウェア第一回
 ・ソフトウェア工学は実務から体系化された知見であり、学生には具体的なイメージが沸きにくい。そして個人の知識だけでは不十分でチームで情報などを共有する必要がある。
 ソフトウェア第二回
